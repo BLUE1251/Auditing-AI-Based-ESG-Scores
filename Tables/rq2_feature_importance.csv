@@ -1,0 +1,5 @@
+Rank,Feature,Mean_SHAP_Value
+1,environment_score,157.26093
+2,social_score,41.78043
+3,governance_score,29.59405
+4,industry,0.37454978
